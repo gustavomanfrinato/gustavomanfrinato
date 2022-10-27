@@ -1,5 +1,12 @@
-### Hi there 👋
+# Gustavo Manfrinato
 
+Engenheiro Químico
+
+- 💻 Entusiasta de tecnologia
+
+- ⌨ Estudando Front-end
+
+- 📫 Contatos [Linkedin](https://www.linkedin.com/in/gustavo-manfrinato/) / gustavo.manfrinato@yahoo.com.br
 <!--
 **gustavomanfrinato/gustavomanfrinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
